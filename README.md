@@ -1,7 +1,6 @@
 # adNomus Analytics SDK for Javascript
 
 ## File Contents
- * Fasttrack
  * Introduction
  * Authentication
  * Content Targeting API
@@ -9,9 +8,6 @@
  * Content Search and Indexing API
  * Follow-up
 
-
-## Fasttrack
-Let's face it, documentation and instructions are boring. You can simply check the following [link](https://sdks.adnomus.com/latest/analytics/example_adnomus_analytics.html).
 
 ## Introduction
 adNomus Real-Time AI technologies deliver content targeting for advertising, content discovery and contextual search purposes. Our technology enables the instant and detailed matching of web/platform content to relevant 3rd party content (e.g. ads, content recommendations, search results). Our solution delivers within 1ms while guaranteeing user and content privacy. Our targeting capabilities serve web and mobile platforms and support interactive, real-time user experiences (e.g. messaging, chatbots, search).
@@ -30,7 +26,7 @@ Our sdk is available under the **__adNomus_analytics_ns** namespace.
 
 ## Authentication
 
-Before performing any API call, you will have to set your authentication credentials. adNomus provides you the credentials. For the purpose of this tutorial we provide testing credentials.
+Before performing any API call, you will have to set your authentication credentials. adNomus provides you the credentials. **Please contact adNomus to receive your credentials before proceeding**.
 
 
 ```javascript
